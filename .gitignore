@@ -1,0 +1,13 @@
+*.bin
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+.idea/
+*.sln
+*.pdb
+Platforms/
+Windows/
